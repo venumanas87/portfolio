@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a34e0d48.css",
+    "main.js": "/static/js/main.244bd21c.js",
+    "static/media/venu_bg.png": "/static/media/venu_bg.e3a2fd6a6e2fc729c061.png",
+    "static/media/rotate_icons.png": "/static/media/rotate_icons.ccc860255155e325f4f2.png",
+    "index.html": "/index.html",
+    "main.a34e0d48.css.map": "/static/css/main.a34e0d48.css.map",
+    "main.244bd21c.js.map": "/static/js/main.244bd21c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34e0d48.css",
+    "static/js/main.244bd21c.js"
+  ]
+}
